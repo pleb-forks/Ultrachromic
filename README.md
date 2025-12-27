@@ -287,7 +287,7 @@ There are some manual options you can define if you want, after the import lines
 .backdropImage {filter: blur(18px) saturate(120%) contrast(120%) brightness(40%);}
 
 /*Login background*/
-#loginPage {background: url(https://i.imgur.com/9vL4iNf.png) !important;}
+#loginPage {background: url(https://raw.githubusercontent.com/CTalvio/Ultrachromic/main/assets/background.png) !important;}
 
 /*Accent and roundingd*/
 :root {--accent: 98, 121, 205;}
